@@ -1,0 +1,27 @@
+{
+	"id": "9ff3f5ee-f64e-46a2-9d5c-174b32a374ae",
+	"name": "ClirnetProduction",
+	"values": [
+		{
+			"key": "prodapiurl",
+			"value": "https://apigl.clirnet.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "prodbaseurl",
+			"value": "https://doctor.clirnet.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "{{token}}",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-04-30T10:05:21.613Z",
+	"_postman_exported_using": "Postman/10.24.24"
+}
